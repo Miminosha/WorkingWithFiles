@@ -1,0 +1,12 @@
+{
+	"name": "The Lord of the Rings: The Fellowship of the Ring",
+	"yearOfCreation": 2001,
+    "directedBy": "Peter Jackson",
+    "runningTimeMinutes": 178,
+    "countries": ["New Zealand", "United States"],
+	"language": "English",
+    "starring":  {
+      "mainRole": "Elijah Wood",
+      "others": "Ian McKellen"
+    }
+}
